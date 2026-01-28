@@ -61,10 +61,6 @@ Here are some of the tools and technologies I work with:
 [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvsandhu1&show_icons=true&theme=radical)](https://github.com/dhruvsandhu1)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsandhu1&layout=compact&theme=radical)](https://github.com/dhruvsandhu1)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvsandhu1&theme=radical)](https://git.io/streak-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=dhruvsandhu1&theme=radical&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
