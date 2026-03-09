@@ -54,17 +54,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvsandhu1&show_icons=true&theme=radical)](https://github.com/dhruvsandhu1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsandhu1&layout=compact&theme=radical)](https://github.com/dhruvsandhu1)
-
-</div>
-
----
-
 ### 📫 Connect with me
 <!-- Add your actual links here -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvsandhu/)
