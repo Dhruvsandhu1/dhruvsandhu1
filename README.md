@@ -7,7 +7,7 @@ I am a passionate AI practitioner focused on solving complex problems with data.
 ---
 
 ### 🚀 Career Update
-**Incoming AI Data Scientist at [Bajaj Finserv](https://www.bajajfinserv.in/)**  
+**Incoming AI Data Scientist at [Bajaj Finserv Health](https://www.bajajfinservhealth.in/)**  
 *I will be joining the team in a few months to work on cutting-edge AI solutions.*
 
 ---
